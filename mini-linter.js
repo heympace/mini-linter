@@ -67,3 +67,11 @@ console.log("You used the word 'basically' " + basicallyCount + " time. \n");
 
 // print betterWords array to the console as a single string
 console.log(betterWords.join(' '));
+
+
+/* 
+extra practice:
+- For the overused words, remove it every other time it appears.
+- Write a function that finds the word that appears the greatest number of times.
+- Replaced overused words with something else.
+*/
